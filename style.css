@@ -458,7 +458,8 @@ article .icon {
 /* PROJECTS SECTION */
 
 #projects {
-  position: relative;
+  position: static;
+  flex-direction: row;
 
 }
 
